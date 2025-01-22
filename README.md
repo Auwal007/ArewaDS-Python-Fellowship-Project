@@ -1,4 +1,3 @@
-Here’s an updated **README** file, tailored to your use of a Jupyter Notebook:
 
 ---
 
