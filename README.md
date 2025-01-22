@@ -66,7 +66,7 @@ pip install requests plotly
 ---
 
 ### Credits
-This project is an implementation based on **Chapter 17 of *Python Crash Course* (3rd Edition) by Eric Matthes**. Full credit for the project idea and concepts goes to the author. This notebook follows and builds upon his instructions.
+This project is an implementation based on **Chapter 17 of *Python Crash Course* (3rd Edition) by [Eric Matthes](https://github.com/ehmatthes)**. Full credit for the project idea and concepts goes to the author. This notebook follows and builds upon his instructions.
 
 ---
 
